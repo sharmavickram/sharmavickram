@@ -2,7 +2,7 @@
 - 👀 I am having 9+ years of experience with proficiency in Data Engineering, Big Data Architecture, Enterprise scale Business Intelligence, and Enterprise data warehousing(EDW) solutions.
 Expertise in designing Enterprise-scale technical cloud and hybrid infrastructures, architecture designs, and implementation, of highly distributed applications.
 - 🌱 I own following Google Cloud Certifications:
-        -  ![image](https://user-images.githubusercontent.com/9397194/204471335-c6ed90f0-9bd0-4bf2-b421-bc07bfe48252.png)
+        -  ![image](https://user-images.githubusercontent.com/9397194/204471576-c5136128-3cca-4142-aa67-438aad5fe877.png)
 Google Cloud Certified Associate Cloud Engineer
         -  Google Cloud Certified Professional Data Engineer
         -  Google Cloud Certified Professional Cloud Architect
