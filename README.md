@@ -9,9 +9,10 @@ Expertise in designing Enterprise-scale technical cloud and hybrid infrastructur
 - 🌱 I'm playing products owner role in my current organisation.
 - I am also an open-source enthusiast who learned a lot from the open-source community and love to collaborate and share knowledge.
 - Connect with me:
+        <a href="https://www.linkedin.com/in/the-vikram-sharma/" rel="nofollow">
+        <img align="left" alt="Vikram Sharma's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-  width: 100%;"></a>
+  
 
-<img align="left" alt="https://www.linkedin.com/in/the-vikram-sharma/" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://www.linkedin.com/in/the-vikram-sharma/)" style="max-width: 100%;">
-<img align="left" alt="[Cloud_AI_Analytics | YouTube](https://www.youtube.com/@TheVickramsharma)" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" style="max-width: 100%;">
 
 
 
