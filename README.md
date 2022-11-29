@@ -11,10 +11,10 @@ Expertise in designing Enterprise-scale technical cloud and hybrid infrastructur
 <h2>Connect with me:</h2>
 
 <ul>
-  <li>VIKRAM SHARMA'S<a href="https://www.linkedin.com/in/the-vikram-sharma/" rel="nofollow" target="_blank">
+  <li>VIKRAM SHARMA<a href="https://www.linkedin.com/in/the-vikram-sharma/" rel="nofollow" target="_blank">
         <img align="left" alt="Vikram Sharma's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-  width: 100%;"></a>
   </li>
-  <li><a href="https://www.youtube.com/@TheVickramsharma" rel="nofollow" target="_blank">
+  <li>MY YOUTUBE CHANNEL<a href="https://www.youtube.com/@TheVickramsharma" rel="nofollow" target="_blank">
         <img align="left" alt="DataEdge Learning" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" style="max-width: 100%; "></a>
   </li>
   
