@@ -13,8 +13,7 @@ Expertise in designing Enterprise-scale technical cloud and hybrid infrastructur
         <img align="left" alt="Vikram Sharma's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-  width: 100%;"></a>
         
         <a href="https://www.youtube.com/@TheVickramsharma" rel="nofollow">
-  <img align="left" alt="DataEdge Learning | YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" style="max-width: 100%;">
-</a>
+        <img align="left" alt="DataEdge Learning" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" style="max-width: 100%;"></a>
   
 
 
