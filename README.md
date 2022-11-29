@@ -9,6 +9,7 @@ Expertise in designing Enterprise-scale technical cloud and hybrid infrastructur
 - 🌱 I'm playing products owner role in my current organisation.
 - I am also an open-source enthusiast who learned a lot from the open-source community and love to collaborate and share knowledge.
 - Connect with me:
-       ![image](https://user-images.githubusercontent.com/9397194/204473258-388589a2-d95c-4993-8c0f-17fc452d1274.png)
+![image](https://user-images.githubusercontent.com/9397194/204473709-200b31a3-7a25-4778-9735-bef40b661f5a.png)
+
 https://www.linkedin.com/in/the-vikram-sharma/
 
