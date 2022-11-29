@@ -9,8 +9,8 @@ Expertise in designing Enterprise-scale technical cloud and hybrid infrastructur
 <h2>Certifications:</h2>
 <ul>
   <li>Google Cloud Certified Associate Cloud Engineer
-        <img align="left" alt="Certifications" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Farki1.com%2Fen%2Fgcp-certifications%2Fassociated-cloud-engineer&psig=AOvVaw0MhjkRPUqeJ56ZeLT2LC4f&ust=1669797850897000&source=images&cd=vfe&ved=2ahUKEwjK-KHv_9L7AhWuzaACHfGVCGcQr4kDegQIARBY" style="max-  width: 100%;">  </li>
-
+        <img align="left" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Farki1.com%2Fen%2Fgcp-certifications%2Fassociated-cloud-engineer&psig=AOvVaw0MhjkRPUqeJ56ZeLT2LC4f&ust=1669797850897000&source=images&cd=vfe&ved=2ahUKEwjK-KHv_9L7AhWuzaACHfGVCGcQr4kDegQIARBY" style="max-  width: 100%;">  </li>
+</ul>
 
 <h2>Connect with me:</h2>
 
