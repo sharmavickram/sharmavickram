@@ -32,6 +32,9 @@ Expertise in designing Enterprise-scale technical cloud and hybrid infrastructur
   <li>MY YOUTUBE CHANNEL<a href="https://www.youtube.com/@TheVickramsharma" target="_blank" rel="noopener noreferrer">
         <img align="left" alt="DataEdge Learning" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" style="max-width: 100%; "></a>
   </li>
+<li>GMAIL: VICKRAM1989@GMAIL.COM <a href="VICKRAM1989@GMAIL.COM" target="_blank" rel="noopener noreferrer">
+        <img align="left" alt="DataEdge Learning" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQu1X6UxGkwSu5OCCNJYwdM3AGE2ulOEY3V3Di2EjOzfJ5boRAFsOKIeqHQyIPGVau5TI&amp;usqp=CAU"" style="max-width: 100%; "></a>
+  </li>
   
 </ul>  
 
