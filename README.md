@@ -12,8 +12,8 @@ Expertise in designing Enterprise-scale technical cloud and hybrid infrastructur
 	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWRcsXIMEdsLc2Ui9ZX897bgq5oEU3C7gQMT_OjY5-DTVWY4PLymQI264qYoC3yqWjIwo&usqp=CAU" alt="Google Cloud Certified Associate Cloud Engineer" style="width:42px;height:42px;">
 		</a>
 	</li>
-  <li>Google Cloud Certified Professional Data Engineer<a href="https://www.credential.net/9cee97f8-8db1-4bc3-9b31-36f778a36415?key=424afbd5844ca22b3d533e552ad6a8969b0f73414c4a684de88703f2deb59fa9">
-	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWRcsXIMEdsLc2Ui9ZX897bgq5oEU3C7gQMT_OjY5-DTVWY4PLymQI264qYoC3yqWjIwo&usqp=CAU" alt="Google Cloud Certified Professional Data Engineer" style="width:42px;height:42px;">
+  <li>Google Cloud Certified Professional Data Engineer<a href="https://www.credential.net/34b281e7-cf66-400d-bada-2007cfeb5316?key=eb5a82065bba7a566894afcac42de8e54862754e43d61ba6a60ea31578db14f8">
+	<img src="https://templates.images.credential.net/16590189412502689960209276019161.png" alt="Google Cloud Certified Professional Data Engineer" style="width:42px;height:42px;">
 		</a>
 	</li>
 	<li>Google Cloud Certified Professional Cloud Architect<a href="https://www.credential.net/d5e5ff83-7bd4-4173-965a-ab21d4a1d29a?key=76f0176155705b8894cdb9931f789cf9b8ac54d877b2840d54a23a04a2da9859">
