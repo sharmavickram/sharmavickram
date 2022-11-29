@@ -1,13 +1,15 @@
 <h2>ABOUT ME:</h2>
 <ul>
-	<li>- 👋 Hello everyone, I am VIKRAM SHARMA. </li>
+	<li> 👋 Hello everyone, I am VIKRAM SHARMA. </li>
 	<li> 👀 I am having 10+ years of experience with proficiency in Data Engineering, Big Data Architecture, Enterprise scale Business Intelligence, and Enterprise data warehousing(EDW) solutions.
 Expertise in designing Enterprise-scale technical cloud and hybrid infrastructures, architecture designs, and implementation, of highly distributed applications.</li>
 	<li> 🌱 I'm products owner in my current organisation.</li>
 	<li> 🌱 I am also an open-source enthusiast who learned a lot from the open-source community and love to collaborate and share knowledge.</li>
 </ul> 
 <h2>Certifications:</h2>
-
+<ul>
+  <li>Google Cloud Certified Associate Cloud Engineer
+        <img align="left" alt="Certifications" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Farki1.com%2Fen%2Fgcp-certifications%2Fassociated-cloud-engineer&psig=AOvVaw0MhjkRPUqeJ56ZeLT2LC4f&ust=1669797850897000&source=images&cd=vfe&ved=2ahUKEwjK-KHv_9L7AhWuzaACHfGVCGcQr4kDegQIARBY" style="max-  width: 100%;">  </li>
 
 
 <h2>Connect with me:</h2>
