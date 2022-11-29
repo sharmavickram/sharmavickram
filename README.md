@@ -9,7 +9,7 @@ Expertise in designing Enterprise-scale technical cloud and hybrid infrastructur
 <h2>Certificates I own:</h2>
 <ul>
 	<li>Google Cloud Certified Associate Cloud Engineer<a href="https://www.credential.net/9cee97f8-8db1-4bc3-9b31-36f778a36415?key=424afbd5844ca22b3d533e552ad6a8969b0f73414c4a684de88703f2deb59fa9">
-	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWRcsXIMEdsLc2Ui9ZX897bgq5oEU3C7gQMT_OjY5-DTVWY4PLymQI264qYoC3yqWjIwo&usqp=CAU" alt="Google Cloud Certified Associate Cloud Engineer" style="width:42px;height:42px;">
+	<img src="https://templates.images.credential.net/16590187933301617801540872729153.png" alt="Google Cloud Certified Associate Cloud Engineer" style="width:42px;height:42px;">
 		</a>
 	</li>
   <li>Google Cloud Certified Professional Data Engineer<a href="https://www.credential.net/34b281e7-cf66-400d-bada-2007cfeb5316?key=eb5a82065bba7a566894afcac42de8e54862754e43d61ba6a60ea31578db14f8">
