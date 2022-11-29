@@ -12,12 +12,15 @@ Expertise in designing Enterprise-scale technical cloud and hybrid infrastructur
 	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWRcsXIMEdsLc2Ui9ZX897bgq5oEU3C7gQMT_OjY5-DTVWY4PLymQI264qYoC3yqWjIwo&usqp=CAU" alt="Google Cloud Certified Associate Cloud Engineer" style="width:42px;height:42px;">
 		</a>
 	</li>
-  <li>Google Cloud Certified Associate Cloud Engineer<a href="https://www.credential.net/9cee97f8-8db1-4bc3-9b31-36f778a36415?key=424afbd5844ca22b3d533e552ad6a8969b0f73414c4a684de88703f2deb59fa9" target="_blank" rel="noopener noreferrer">
-        <img align="left" width="22px" src="" style="max-  width: 100%;">  </li>
-  <li>Google Cloud Certified Professional Data Engineer
-        <img align="left" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Farki1.com%2Fen%2Fgcp-certifications%2Fassociated-cloud-engineer&psig=AOvVaw0MhjkRPUqeJ56ZeLT2LC4f&ust=1669797850897000&source=images&cd=vfe&ved=2ahUKEwjK-KHv_9L7AhWuzaACHfGVCGcQr4kDegQIARBY" style="max-  width: 100%;">  </li>
-  <li>Google Cloud Certified Professional Cloud Architect
-        <img align="left" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Farki1.com%2Fen%2Fgcp-certifications%2Fassociated-cloud-engineer&psig=AOvVaw0MhjkRPUqeJ56ZeLT2LC4f&ust=1669797850897000&source=images&cd=vfe&ved=2ahUKEwjK-KHv_9L7AhWuzaACHfGVCGcQr4kDegQIARBY" style="max-  width: 100%;">  </li>
+  <li>Google Cloud Certified Associate Cloud Engineer<a href="https://www.credential.net/9cee97f8-8db1-4bc3-9b31-36f778a36415?key=424afbd5844ca22b3d533e552ad6a8969b0f73414c4a684de88703f2deb59fa9">
+	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWRcsXIMEdsLc2Ui9ZX897bgq5oEU3C7gQMT_OjY5-DTVWY4PLymQI264qYoC3yqWjIwo&usqp=CAU" alt="Google Cloud Certified Associate Cloud Engineer" style="width:42px;height:42px;">
+		</a>
+	</li>
+	<li>Google Cloud Certified Associate Cloud Engineer<a href="https://www.credential.net/9cee97f8-8db1-4bc3-9b31-36f778a36415?key=424afbd5844ca22b3d533e552ad6a8969b0f73414c4a684de88703f2deb59fa9">
+	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWRcsXIMEdsLc2Ui9ZX897bgq5oEU3C7gQMT_OjY5-DTVWY4PLymQI264qYoC3yqWjIwo&usqp=CAU" alt="Google Cloud Certified Associate Cloud Engineer" style="width:42px;height:42px;">
+		</a>
+	</li>
+  
 </ul>
 
 <h2>Connect with me:</h2>
