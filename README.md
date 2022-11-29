@@ -6,9 +6,13 @@ Expertise in designing Enterprise-scale technical cloud and hybrid infrastructur
 	<li> 🌱 I'm products owner in my current organisation.</li>
 	<li> 🌱 I am also an open-source enthusiast who learned a lot from the open-source community and love to collaborate and share knowledge.</li>
 </ul> 
-<h2>Certifications:</h2>
+<h2>Certificates i own:</h2>
 <ul>
   <li>Google Cloud Certified Associate Cloud Engineer
+        <img align="left" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Farki1.com%2Fen%2Fgcp-certifications%2Fassociated-cloud-engineer&psig=AOvVaw0MhjkRPUqeJ56ZeLT2LC4f&ust=1669797850897000&source=images&cd=vfe&ved=2ahUKEwjK-KHv_9L7AhWuzaACHfGVCGcQr4kDegQIARBY" style="max-  width: 100%;">  </li>
+  <li>Google Cloud Certified Professional Data Engineer
+        <img align="left" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Farki1.com%2Fen%2Fgcp-certifications%2Fassociated-cloud-engineer&psig=AOvVaw0MhjkRPUqeJ56ZeLT2LC4f&ust=1669797850897000&source=images&cd=vfe&ved=2ahUKEwjK-KHv_9L7AhWuzaACHfGVCGcQr4kDegQIARBY" style="max-  width: 100%;">  </li>
+  <li>Google Cloud Certified Professional Cloud Architect
         <img align="left" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Farki1.com%2Fen%2Fgcp-certifications%2Fassociated-cloud-engineer&psig=AOvVaw0MhjkRPUqeJ56ZeLT2LC4f&ust=1669797850897000&source=images&cd=vfe&ved=2ahUKEwjK-KHv_9L7AhWuzaACHfGVCGcQr4kDegQIARBY" style="max-  width: 100%;">  </li>
 </ul>
 
