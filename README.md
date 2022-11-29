@@ -8,13 +8,17 @@ Expertise in designing Enterprise-scale technical cloud and hybrid infrastructur
 - 💞️ My YouTube channel for tech videos is: https://www.youtube.com/user/TheVickramsharma
 - 🌱 I'm playing products owner role in my current organisation.
 - I am also an open-source enthusiast who learned a lot from the open-source community and love to collaborate and share knowledge.
-- Connect with me:
-        <a href="https://www.linkedin.com/in/the-vikram-sharma/" rel="nofollow">
+<h2>Connect with me:</h2>
+
+<ul>
+  <li><a href="https://www.linkedin.com/in/the-vikram-sharma/" rel="nofollow">
         <img align="left" alt="Vikram Sharma's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-  width: 100%;"></a>
-        
-        <a href="https://www.youtube.com/@TheVickramsharma" rel="nofollow">
+  </li>
+  <li><a href="https://www.youtube.com/@TheVickramsharma" rel="nofollow">
         <img align="left" alt="DataEdge Learning" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" style="max-width: 100%;"></a>
+  </li>
   
+</ul>  
 
 
 
