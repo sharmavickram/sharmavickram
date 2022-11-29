@@ -1,8 +1,8 @@
 - 👋 Hello everyone, I am VIKRAM SHARMA. 
-- 👀 I am having 9+ years of experience with proficiency in Data Engineering, Big Data Architecture, Enterprise scale Business Intelligence, and Enterprise data warehousing(EDW) solutions.
+- 👀 I am having 10+ years of experience with proficiency in Data Engineering, Big Data Architecture, Enterprise scale Business Intelligence, and Enterprise data warehousing(EDW) solutions.
 Expertise in designing Enterprise-scale technical cloud and hybrid infrastructures, architecture designs, and implementation, of highly distributed applications.
 - 🌱 I own following Google Cloud Certifications:
-        -  ![image](https://user-images.githubusercontent.com/9397194/204471576-c5136128-3cca-4142-aa67-438aad5fe877.png)
+        -  ![image](https://user-images.githubusercontent.com/9397194/204472002-4dc4a6c7-8c95-4df5-b330-4004c00d9880.png)
 Google Cloud Certified Associate Cloud Engineer
         -  Google Cloud Certified Professional Data Engineer
         -  Google Cloud Certified Professional Cloud Architect
