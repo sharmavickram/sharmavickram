@@ -10,6 +10,7 @@ Expertise in designing Enterprise-scale technical cloud and hybrid infrastructur
 - I am also an open-source enthusiast who learned a lot from the open-source community and love to collaborate and share knowledge.
 - Connect with me:
 ![image](https://user-images.githubusercontent.com/9397194/204473709-200b31a3-7a25-4778-9735-bef40b661f5a.png)
+<img align="left" alt="Cloud_AI_Analytics | YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" style="max-width: 100%;">
 
 https://www.linkedin.com/in/the-vikram-sharma/
 
