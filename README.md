@@ -17,8 +17,7 @@ Expertise in designing Enterprise-scale technical cloud and hybrid infrastructur
 		</a>
 	</li>
 	<li>Google Cloud Certified Professional Cloud Architect<a href="https://www.credential.net/d5e5ff83-7bd4-4173-965a-ab21d4a1d29a?key=76f0176155705b8894cdb9931f789cf9b8ac54d877b2840d54a23a04a2da9859">
-	<img src="![image](https://user-images.githubusercontent.com/9397194/204501076-c6a3923c-85f8-449e-b10f-6c952ed63d82.png)
-" style="width:42px;height:42px;">
+	<img src="https://templates.images.credential.net/16590181582433100721069374350922.png" style="width:42px;height:42px;">
 		</a>
 	</li>
   
